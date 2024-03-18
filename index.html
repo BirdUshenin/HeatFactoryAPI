@@ -1,41 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Список элементов</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product List</title>
 </head>
 <body>
-    <h1>Список элементов</h1>
-    <ul id="items-list"></ul>
+  <div id="productList"></div>
 
-    <script>
-        // Функция для загрузки данных из JSON-файла
-        async function loadItems() {
-            const response = await fetch('https://raw.githubusercontent.com/birdushenin/HeatFactoryAPI/main/items.json');
-            const data = await response.json();
-            return data;
-        }
-
-        // Функция для отображения списка элементов
-        async function displayItems() {
-            const items = await loadItems();
-            const list = document.getElementById('items-list');
-            
-            items.forEach(item => {
-                const listItem = document.createElement('li');
-                listItem.innerHTML = `
-                    <h3>${item.name}</h3>
-                    <p>Категория: ${item.category}</p>
-                    <p>${item.description}</p>
-                    <img src="${item.imageSrc}" alt="${item.name}">
-                `;
-                list.appendChild(listItem);
-            });
-        }
-
-        // Вызов функции для отображения списка при загрузке страницы
-        displayItems();
-    </script>
+  <script>
+    // Загрузка данных из JSON файла
+    fetch('products.json')
+      .then(response => response.json())
+      .then(data => {
+        const productListElement = document.getElementById('productList');
+        data.forEach(product => {
+          const productElement = document.createElement('div');
+          productElement.innerHTML = `
+            <h2>${product.name}</h2>
+            <p>Category: ${product.category}</p>
+            <p>Description: ${product.description}</p>
+            <img src="${product.imageSrc}" alt="${product.name}">
+          `;
+          productListElement.appendChild(productElement);
+        });
+      })
+      .catch(error => console.error('Error fetching products', error));
+  </script>
 </body>
 </html>
