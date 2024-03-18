@@ -4,13 +4,13 @@
     "category": "Category 1",
     "name": "Product 1",
     "description": "Description of Product 1",
-    "imageSrc": "https://www.pravilamag.ru/upload/img_cache/652/65234820e716d5e5d0159ac9bccc8314_ce_1622x1080x148x0.jpg"
+    "imageSrc": "path/to/rick.jpg"
   },
   {
     "id": 2,
     "category": "Category 2",
     "name": "Product 2",
     "description": "Description of Product 2",
-    "imageSrc": "https://img.championat.com/c/1350x759/news/big/z/y/v-multiversus-mozhno-budet-sygrat-za-rika-iz-seriala-rik-i-morti_16640325051189840599.jpg"
+    "imageSrc": "path/to/morty.jpg"
   }
 ]
