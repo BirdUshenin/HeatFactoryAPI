@@ -1,0 +1,33 @@
+[
+    {
+        "id": 7,
+        "name": "Настенные газовые котлы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/464/image_13.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Напольные газовые котлы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/463/image_12.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Конденсационные котлы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/565/image_175.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Комплекты котёл+",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/627/image_241.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Отечественные котлы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/502/image_18.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Электрические котлы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/410/image_14.jpg"
+    }
+
+]
