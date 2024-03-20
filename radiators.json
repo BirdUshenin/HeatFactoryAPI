@@ -1,0 +1,33 @@
+[
+    {
+        "id": 13,
+        "name": "Радиаторы алюминевые",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/406/image_50.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Радиаторы биметаллические",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/407/image_56.png"
+    },
+    {
+        "id": 15,
+        "name": "Радиаторы стальные",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/497/image_52.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Внутрипольные конвекторы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/524/image_172.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Радиаторы трубчатые",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/607/image_251.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Радиаторы чугунные",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/498/image_53.jpg"
+    }
+
+]
