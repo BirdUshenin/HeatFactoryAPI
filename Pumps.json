@@ -1,0 +1,33 @@
+[
+    {
+        "id": 25,
+        "name": "Циркуляционные насосы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/404/image_64.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Скважинные насосы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/495/image_65.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Насосные станции",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/403/image_189.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Канализационные установки",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/480/image_67.jpeg"
+    },
+    {
+        "id": 29,
+        "name": "Дренажные насосы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/479/image_68.jpeg"
+    },
+    {
+        "id": 30,
+        "name": "Поверхостные насосы",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/483/image_71.jpg"
+    }
+
+]
