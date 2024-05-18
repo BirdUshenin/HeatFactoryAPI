@@ -1,0 +1,39 @@
+[
+    {
+        "id": 80,
+        "name": "Газовый котел Baxi ECO-4s 1.24 F одноконтурный",
+        "price": "66 435 ₽",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/products/05/98/19805/images/20987/20987.180@2x.jpg"
+    },
+    {
+        "id": 81,
+        "name": "Газовый котел Baxi ECO-4s 24F двухконтурный",
+        "price": "72 750 ₽",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/products/84/50/15084/images/14983/14983.180@2x.jpg"
+    },
+    {
+        "id": 82,
+        "name": "Газовый котел Baxi ECO Nova 24 F",
+        "price": "59 000 ₽",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/450/image_75.jpg"
+    },
+    {
+        "id": 83,
+        "name": "Газовый котел Ferroli Vitabel F24",
+        "price": "47 900 ₽",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/products/86/93/19386/images/16697/16697.180@2x.jpg"
+    },
+    {
+        "id": 84,
+        "name": "Газовый котел Baxi ECO Four 1.24",
+        "price": "69 385 ₽",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/products/27/42/24227/images/20899/20899.180@2x.jpg"
+    },
+    {
+        "id": 85,
+        "name": "СГазовый котел Baxi ECO Four 24",
+        "price": "79 945 ₽",
+        "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/products/77/50/15077/images/6710/6710.180@2x.jpg"
+    }
+
+]
