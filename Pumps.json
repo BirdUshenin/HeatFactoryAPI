@@ -2,31 +2,37 @@
     {
         "id": 25,
         "name": "Циркуляционные насосы",
+        "price": "73 900 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/404/image_64.jpg"
     },
     {
         "id": 26,
         "name": "Скважинные насосы",
+        "price": "45 500 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/495/image_65.jpg"
     },
     {
         "id": 27,
         "name": "Насосные станции",
+        "price": "67 120 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/403/image_189.jpg"
     },
     {
         "id": 28,
         "name": "Канализационные установки",
+        "price": "20 000 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/480/image_67.jpeg"
     },
     {
         "id": 29,
         "name": "Дренажные насосы",
+        "price": "22 310 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/479/image_68.jpeg"
     },
     {
         "id": 30,
         "name": "Поверхостные насосы",
+        "price": "12 400 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/483/image_71.jpg"
     }
 
