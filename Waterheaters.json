@@ -2,31 +2,37 @@
     {
         "id": 19,
         "name": "Газовые колонки",
+        "price": "15 000 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/413/image_59.jpg"
     },
     {
         "id": 20,
         "name": "Накопительные водонагреватели",
+        "price": "21 310 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/414/image_57.jpg"
     },
     {
         "id": 21,
         "name": "Газовые накопительные водонагреватели",
+        "price": "22 500 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/489/image_60.jpg"
     },
     {
         "id": 22,
         "name": "Проточные водонагреватели",
+        "price": "18 000 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/491/image_112.jpg"
     },
     {
         "id": 23,
         "name": "Бойлеры косвенного нагрева",
+        "price": "20 450 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/412/image_61.jpg"
     },
     {
         "id": 24,
         "name": "Теплонакопители",
+        "price": "20 300 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/490/image_62.jpg"
     }
 
