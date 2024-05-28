@@ -2,31 +2,37 @@
     {
         "id": 31,
         "name": "Полипропиленовые трубы",
+        "price": "42 310 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/433/image_148.jpg"
     },
     {
         "id": 32,
         "name": "Канализационные трубы",
+        "price": "12 353 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/558/image_186.jpg"
     },
     {
         "id": 33,
         "name": "Металлоплатиковые трубы",
+        "price": "52 710 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/450/image_75.jpg"
     },
     {
         "id": 34,
         "name": "ПНД",
+        "price": "1 800 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/506/image_155.jpg"
     },
     {
         "id": 35,
         "name": "Медные трубы",
+        "price": "18 900 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/454/image_151.jpg"
     },
     {
         "id": 36,
         "name": "Сшитый полиэтилен",
+        "price": "5 400 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/453/image_78.png"
     }
 
