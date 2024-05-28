@@ -2,31 +2,37 @@
     {
         "id": 37,
         "name": "Водяной теплый пол",
+        "price": "32 310 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/444/image_226.jpg"
     },
     {
         "id": 38,
         "name": "Нагревательные маты",
+        "price": "12 584 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/445/image_223.jpg"
     },
     {
         "id": 39,
         "name": "Греющий кабель",
+        "price": "24 132 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/446/image_224.jpg"
     },
     {
         "id": 40,
         "name": "Защита труб и кровли от замерзания",
+        "price": "12 500 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/465/image_128.jpg"
     },
     {
         "id": 41,
         "name": "Термостаты",
+        "price": "9 100 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/wmimageincatPlugin/categories/466/image_130.jpg"
     },
     {
         "id": 42,
         "name": "Трубы для теплого пола",
+        "price": "53 532 ₽",
         "imageSrc": "https://fabrikatepla.online/wa-data/public/shop/products/82/73/17382/images/13972/13972.180@2x.jpg"
     }
 
